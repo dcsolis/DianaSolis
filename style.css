@@ -135,13 +135,13 @@
   .contact-grid {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
-    grid-gap: 2vw;
+    grid-gap: 1.8vw;
     margin: 3vw;
     padding: 1vw;
   }
   
   .contact-grid > a {
-    font-size: 2vw;
+    font-size: 1.4vw;
     text-decoration: none;
     color: #F2EDEE;
     
