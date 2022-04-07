@@ -134,10 +134,10 @@
   
   .contact-grid {
     display: grid;
-    grid-template-columns: 28% 33% 33%;
+    grid-template-columns: 25% 25% 25% 25%;
     grid-gap: 2vw;
     margin: 3vw;
-    padding: 1.5vw;
+    padding: 1vw;
   }
   
   .contact-grid > a {
